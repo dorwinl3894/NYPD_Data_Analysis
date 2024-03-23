@@ -1,4 +1,4 @@
-# NYPD Budgeting Decisions and Resource Allocation Study
+# NYPD Budgeting Decisions and Resource Allocation Data Analysis Project
 
 ## Introduction
 To start off, I was **curious** as to how the New York Police Department (NYPD) decided on their budgeting decisions. I decided to take this problem into my own hands and find key insights into how the NYPD should allocate their resources based on needs and crime trends. Understanding NYPD resource allocation based on crime trends is important because it directly impacts **public safety**, ensures the efficient use of resources, and fosters data-driven decision-making.
