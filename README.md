@@ -50,4 +50,4 @@ I chose **Tableau** for data exploration, as the visualizations were instrumenta
 
 ## Presentation
 To present my findings effectively, I built a dashboard in Tableau, featuring graphs that could help the NYPD allocate resources using data-driven insights.
-- **Tableau Dashboard**: [Tableau Dashboard]([https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc](https://public.tableau.com/app/profile/dorwin.liang/viz/NYPDCrimeStatistics2006-2023/Dashboard1)https://public.tableau.com/app/profile/dorwin.liang/viz/NYPDCrimeStatistics2006-2023/Dashboard1)
+[NYPD Crime Statistics 2006-2023 Dashboard](https://public.tableau.com/app/profile/dorwin.liang/viz/NYPDCrimeStatistics2006-2023/Dashboard1)
